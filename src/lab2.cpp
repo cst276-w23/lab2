@@ -31,7 +31,7 @@ void update(sf::Time dt, std::vector<sf::CircleShape> & shapes) {
 }
 
 int main() {
-  sf::RenderWindow window{sf::VideoMode{1000, 600}, "Lab1"};
+  sf::RenderWindow window{sf::VideoMode{1000, 600}, "Lab2"};
 
   std::vector<sf::CircleShape> shapes{};
 
